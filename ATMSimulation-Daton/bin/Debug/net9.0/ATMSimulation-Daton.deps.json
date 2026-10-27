@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ATMSimulation-Daton/1.0.0": {
+        "runtime": {
+          "ATMSimulation-Daton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATMSimulation-Daton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

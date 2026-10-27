@@ -1,0 +1,14 @@
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.GeneratedMSBuildEditorConfig.editorconfig
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.AssemblyInfoInputs.cache
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.AssemblyInfo.cs
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.csproj.CoreCompileInputs.cache
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\bin\Debug\net9.0\ATMSimulation-Daton.exe
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\bin\Debug\net9.0\ATMSimulation-Daton.deps.json
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\bin\Debug\net9.0\ATMSimulation-Daton.runtimeconfig.json
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\bin\Debug\net9.0\ATMSimulation-Daton.dll
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\bin\Debug\net9.0\ATMSimulation-Daton.pdb
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.dll
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\refint\ATMSimulation-Daton.dll
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.pdb
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ATMSimulation-Daton.genruntimeconfig.cache
+\\Win-9u77nfs6td3\folder redirection\ihub11\My Documents\T2_Daton_Luzy\ATMSimulation-Daton\obj\Debug\net9.0\ref\ATMSimulation-Daton.dll
